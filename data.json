@@ -37,38 +37,38 @@
       "slots": [
         {
           "link": "/play/",
-          "logo": "/uploads/5bf05f7c417802687f92671178ddb8ed.webp",
-          "name": "Joker Stoker",
-          "Name": "Joker Stoker",
-          "logo_alt": "joker stoker"
+          "logo": "/uploads/4bd0b666c75446646bd8b5e4588eedd0.webp",
+          "name": "Thai Blossoms",
+          "Name": "Thai Blossoms",
+          "logo_alt": "thai blossoms"
         },
         {
           "link": "/play/",
-          "logo": "/uploads/25daedf6b4aef875ccf8367c89120d06.webp",
-          "name": "Santas Wonderland",
-          "Name": "Santas Wonderland",
-          "logo_alt": "santas wonderland"
+          "logo": "/uploads/337001b851219de5eb3f8fdcf8dd0b28.webp",
+          "name": "Serpent Gold",
+          "Name": "Serpent Gold",
+          "logo_alt": "serpent gold"
         },
         {
           "link": "/play/",
-          "logo": "/uploads/2419013924fd9ce9a5741c6a80dee5d8.webp",
-          "name": "Santas Wonderland",
-          "Name": "Santas Wonderland",
-          "logo_alt": "wild wild pearls"
+          "logo": "/uploads/196b5b9d9619ba1a1c1d76d35442cddb.webp",
+          "name": "Crown of Secret",
+          "Name": "Crown of Secret",
+          "logo_alt": "crown of secret"
         },
         {
           "link": "/play/",
-          "logo": "/uploads/aa671f2972c1be72c3cf533d48ae71f0.webp",
-          "name": "Sweet Bonanza Dice",
-          "Name": "Sweet Bonanza Dice",
-          "logo_alt": "sweet bonanza dice"
+          "logo": "/uploads/f9d9fa6e6edaaaacfb32f7f172de5e41.webp",
+          "name": "Chaos Crew",
+          "Name": "Chaos Crew",
+          "logo_alt": "chaos crew"
         },
         {
           "link": "/play/",
-          "logo": "/uploads/3a977159d4449d04c5b5e93e231f52fe.webp",
-          "name": "Lucky Money",
-          "Name": "Lucky Money",
-          "logo_alt": "lucky money"
+          "logo": "/uploads/a20abb7d701a3081c75b5e213e7ea182.webp",
+          "name": "Threefold the Gold",
+          "Name": "Threefold the Gold",
+          "logo_alt": "threefold the gold"
         },
         {
           "link": "/play/",
@@ -81,24 +81,24 @@
       "bonuses": [
         {
           "link": "/play/",
-          "logo": "/uploads/85f7c06258af2a32384294eadea85dd1.webp",
-          "name": "Welcome Bonus 150% up to €750 + 100 FS",
-          "Name": "Welcome Bonus 150% up to €750 + 100 FS",
-          "logo_alt": "Welcome Bonus"
-        },
-        {
-          "link": "/play/",
-          "logo": "/uploads/c5741637ac2c319b7953cf7b8b4d8a3d.webp",
-          "name": "High Roller Bonus 150% up to €3,000 + 150 FS",
-          "Name": "High Roller Bonus 150% up to €3,000 + 150 FS",
+          "logo": "/uploads/f19f2699e8acd02f1d3d06904f645898.svg",
+          "name": "Welcome Bonus 150% tot €5,000 + 177 FS",
+          "Name": "Welcome Bonus 150% tot €5,000 + 177 FS",
           "logo_alt": "Sport Bonus"
         },
         {
           "link": "/play/",
-          "logo": "/uploads/31e155d59b7f6d26be4378dfddcb19ab.webp",
-          "name": "Monday Reload Bonus 60% up to €500 + 60 FS",
-          "Name": "Monday Reload Bonus 60% up to €500 + 60 FS",
-          "logo_alt": "Weekly Bonus"
+          "logo": "/uploads/1ace183d59e53057f2a0097770a25c19.svg",
+          "name": "Maandag Reload 25% op live casinospellen van €25",
+          "Name": "Maandag Reload 25% op live casinospellen van €25",
+          "logo_alt": "Welcome Bonus"
+        },
+        {
+          "link": "/play/",
+          "logo": "/uploads/2a93a01ea4ff02a81d49e801f25aebcf.svg",
+          "name": "Woensdag Gratis Spins: 100 gratis spins van €20 ",
+          "Name": "Woensdag Gratis Spins: 100 gratis spins van €20 ",
+          "logo_alt": "Exclusive Bonus"
         }
       ],
       "faq": [],
@@ -265,38 +265,38 @@
   "Slots": [
     {
       "link": "/play/",
-      "logo": "/uploads/5bf05f7c417802687f92671178ddb8ed.webp",
-      "name": "Joker Stoker",
-      "Name": "Joker Stoker",
-      "logo_alt": "joker stoker"
+      "logo": "/uploads/4bd0b666c75446646bd8b5e4588eedd0.webp",
+      "name": "Thai Blossoms",
+      "Name": "Thai Blossoms",
+      "logo_alt": "thai blossoms"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/25daedf6b4aef875ccf8367c89120d06.webp",
-      "name": "Santas Wonderland",
-      "Name": "Santas Wonderland",
-      "logo_alt": "santas wonderland"
+      "logo": "/uploads/337001b851219de5eb3f8fdcf8dd0b28.webp",
+      "name": "Serpent Gold",
+      "Name": "Serpent Gold",
+      "logo_alt": "serpent gold"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/2419013924fd9ce9a5741c6a80dee5d8.webp",
-      "name": "Santas Wonderland",
-      "Name": "Santas Wonderland",
-      "logo_alt": "wild wild pearls"
+      "logo": "/uploads/196b5b9d9619ba1a1c1d76d35442cddb.webp",
+      "name": "Crown of Secret",
+      "Name": "Crown of Secret",
+      "logo_alt": "crown of secret"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/aa671f2972c1be72c3cf533d48ae71f0.webp",
-      "name": "Sweet Bonanza Dice",
-      "Name": "Sweet Bonanza Dice",
-      "logo_alt": "sweet bonanza dice"
+      "logo": "/uploads/f9d9fa6e6edaaaacfb32f7f172de5e41.webp",
+      "name": "Chaos Crew",
+      "Name": "Chaos Crew",
+      "logo_alt": "chaos crew"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/3a977159d4449d04c5b5e93e231f52fe.webp",
-      "name": "Lucky Money",
-      "Name": "Lucky Money",
-      "logo_alt": "lucky money"
+      "logo": "/uploads/a20abb7d701a3081c75b5e213e7ea182.webp",
+      "name": "Threefold the Gold",
+      "Name": "Threefold the Gold",
+      "logo_alt": "threefold the gold"
     },
     {
       "link": "/play/",
@@ -309,24 +309,24 @@
   "Bonuses": [
     {
       "link": "/play/",
-      "logo": "/uploads/85f7c06258af2a32384294eadea85dd1.webp",
-      "name": "Welcome Bonus 150% up to €750 + 100 FS",
-      "Name": "Welcome Bonus 150% up to €750 + 100 FS",
-      "logo_alt": "Welcome Bonus"
-    },
-    {
-      "link": "/play/",
-      "logo": "/uploads/c5741637ac2c319b7953cf7b8b4d8a3d.webp",
-      "name": "High Roller Bonus 150% up to €3,000 + 150 FS",
-      "Name": "High Roller Bonus 150% up to €3,000 + 150 FS",
+      "logo": "/uploads/f19f2699e8acd02f1d3d06904f645898.svg",
+      "name": "Welcome Bonus 150% tot €5,000 + 177 FS",
+      "Name": "Welcome Bonus 150% tot €5,000 + 177 FS",
       "logo_alt": "Sport Bonus"
     },
     {
       "link": "/play/",
-      "logo": "/uploads/31e155d59b7f6d26be4378dfddcb19ab.webp",
-      "name": "Monday Reload Bonus 60% up to €500 + 60 FS",
-      "Name": "Monday Reload Bonus 60% up to €500 + 60 FS",
-      "logo_alt": "Weekly Bonus"
+      "logo": "/uploads/1ace183d59e53057f2a0097770a25c19.svg",
+      "name": "Maandag Reload 25% op live casinospellen van €25",
+      "Name": "Maandag Reload 25% op live casinospellen van €25",
+      "logo_alt": "Welcome Bonus"
+    },
+    {
+      "link": "/play/",
+      "logo": "/uploads/2a93a01ea4ff02a81d49e801f25aebcf.svg",
+      "name": "Woensdag Gratis Spins: 100 gratis spins van €20 ",
+      "Name": "Woensdag Gratis Spins: 100 gratis spins van €20 ",
+      "logo_alt": "Exclusive Bonus"
     }
   ],
   "Reviews": null,
@@ -352,10 +352,10 @@
       "question": "Is MegaBet Casino een gelicentieerd platform?"
     }
   ],
-  "_generated_at": "2026-10-12T10:31:09.125Z",
+  "_generated_at": "2026-10-12T11:49:09.524Z",
   "_version": "1.0.0",
   "html_head_alt": "megabet baner",
   "content_alt": "megabet slot",
-  "_last_deploy": "2026-10-12T10:31:09.716Z",
-  "_deploy_trigger": "ryp584"
+  "_last_deploy": "2026-10-12T11:49:10.140Z",
+  "_deploy_trigger": "0a37qu"
 }
