@@ -195,14 +195,14 @@
   "home_name": "MegaBet Casino",
   "subdomains": null,
   "accent_color": "#d4af37",
-  "main_background": "#10091a",
-  "secondary_background": "#24023e",
-  "button_background": "#fec538",
-  "button_text_color": "#10091a",
+  "main_background": "#090911",
+  "secondary_background": "#131623",
+  "button_background": "#0ba358",
+  "button_text_color": "#ffffff",
   "text_color": "#ffffff",
   "color_highlight_text": "#ffffff",
-  "color_main_btn_text": "#10091a",
-  "cta_background": "#8bd03a",
+  "color_main_btn_text": "#ffffff",
+  "cta_background": "#0ba358",
   "logo": {
     "url": "/uploads/efd8cd20fc343aa74f69abfb81f08ab8.webp",
     "alt": "megabet logo"
@@ -352,10 +352,10 @@
       "question": "Is MegaBet Casino een gelicentieerd platform?"
     }
   ],
-  "_generated_at": "2026-10-12T10:14:00.310Z",
+  "_generated_at": "2026-10-12T10:15:59.436Z",
   "_version": "1.0.0",
   "html_head_alt": "megabet baner",
   "content_alt": "megabet slot",
-  "_last_deploy": "2026-10-12T10:14:00.921Z",
-  "_deploy_trigger": "wagkcw"
+  "_last_deploy": "2026-10-12T10:16:00.040Z",
+  "_deploy_trigger": "2tvdi"
 }
